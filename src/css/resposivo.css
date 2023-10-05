@@ -28,12 +28,12 @@
     .botoes {
         flex-direction: row;
         align-items: flex-end;
-        width: 100%;
+        width: 50%;
         padding: 25px;
     }
 
     .botoes .botao img {
-        max-width: 80px;
+        min-width: 40px;
     }
 }
 
@@ -63,7 +63,7 @@
     }
 
     .botoes .botao img {
-        max-width: 80px;
+        min-width: 40px;
 
     }
 

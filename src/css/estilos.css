@@ -88,12 +88,12 @@ main .personagem .imagem {
     border: none;
     background: #000000;
     cursor: pointer;
-    border-radius: 50%;
+    border-radius: 100%;
 
 }
 
 .botoes .botao img {
-    border-radius: 10%;
+    border-radius: 50%;
 }
 
 .botoes .botao.selecionado {
