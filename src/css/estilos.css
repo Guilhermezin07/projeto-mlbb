@@ -31,7 +31,7 @@ main .personagem.selecionado {
 main .personagem .imagem {
     width: 115%;
     height: 95%;
-    object-fit:contain
+    object-fit:cover
 }
 
 .conteudo {
@@ -75,7 +75,7 @@ main .personagem .imagem {
    
 
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     min-height: 100vh;
     width: 100px;
     justify-content: center;
@@ -88,7 +88,7 @@ main .personagem .imagem {
     border: none;
     background: #000000;
     cursor: pointer;
-    border-radius: 100%;
+    border-radius: 50%;
 
 }
 
